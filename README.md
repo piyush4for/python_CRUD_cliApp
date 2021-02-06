@@ -12,4 +12,4 @@ python3 idea_collection.py
 ```
 
 ## License
-[Piyush4for](http://demo-portfolio.s3-website.ap-south-1.amazonaws.com//)
+[Piyush4for](http://demo-portfolio.s3-website.ap-south-1.amazonaws.com/)
