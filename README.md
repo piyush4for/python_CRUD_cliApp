@@ -1,5 +1,5 @@
 # idea_collection
-simple python program connected with database to view ,insert and delete a idea
+simple python program connected with database to view ,insert and delete a idea using sqlite database
 
 ## Usage
 
