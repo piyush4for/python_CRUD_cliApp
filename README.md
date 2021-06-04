@@ -1,4 +1,4 @@
-# idea_collection
+# Python_CRUD
 simple python program connected with database to view ,insert and delete a idea using sqlite database
 
 ## Usage
